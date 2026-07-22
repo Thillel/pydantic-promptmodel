@@ -31,8 +31,6 @@ defect. If there are no findings, say so explicitly.
 After the findings, give a two-sentence summary of the patch's overall risk and test
 coverage.
 
----
-
 # Proposed patch
 
 ```diff
